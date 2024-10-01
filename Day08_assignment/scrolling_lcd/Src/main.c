@@ -30,7 +30,7 @@
 int main(void)
 {
 	int ret;
-	char str[32] = "Anish Vijay Mhaske";
+	char str[32] = "Roshan Ashok Avadan";
 	SystemInit();
 
 	ret = Lcd_Init();
